@@ -1,0 +1,13 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+
+[dev-packages]
+ipykernel = "==6.25.2"
+requests = "==2.31.0"
+
+[requires]
+python_version = "*"
